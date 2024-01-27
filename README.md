@@ -31,4 +31,8 @@ Il arrive que les cibles s'envolent quand on leur tire dessus, pour une raison i
 
 Lorsqu'on monte sur l'avion les mouvements du personnages sont coupé jusquà arriver sur la plateforme, mais la dernière animation jouée peut restée activée, donnant l'impression que le joueur marche sur place.
 
+Si on remonte sur l'avion une fois déposé sur la plateforme, il n'est plus possible d'en descendre.
+
 L'animation du bras lors de la visée au pistolet est loin d'être propre.
+
+Le message de game over devrait arriver pendant le freeze de l'ecran mais apparait seulement après pendant moins d'une seconde.
